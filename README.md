@@ -16,7 +16,7 @@ Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer focused on open-source pl
 <table><tr>
 <td valign="top" width="50%">
 
-## What I work with
+### What I work with 👨‍💼
 - DevOps and platform engineering
 - OpenShift and Kubernetes
 - Linux, RHEL, and automation
@@ -24,24 +24,23 @@ Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer focused on open-source pl
 - Cloud and hybrid environments
 - Observability and operational reliability
 
-## Ask me about
+### Ask me about ❓
 - DevOps practices
 - OpenShift and Kubernetes
 - Linux and automation
 - GitOps and CI/CD workflows
 - Infrastructure troubleshooting
 
-## A bit beyond work
+### A bit beyond work 🍻
 I’m also a big fan of classic video games and have restored several vintage arcade consoles.
 
-## Recent personal project
+🌍 ✈️ ⚽ 🏊‍♂️ 🥋 🎮 🎧 📖 🐶 🐱
+
+### Recent personal project 💻
 Built a [Raspberry Pi](https://www.raspberrypi.com/) retro gaming system with [**RetroPie**](https://retropie.org.uk/) and a large curated game library.
 
-## Farewell to Atom
-Still missing `Atom` :atom: [RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/).
-
-
-- 💹   📚   🗺️   🌏   ✈️   🎮   🏊‍♂️   ⚽   🥋   🐶   🐱   :octocat:   🎧   🍻
+### Farewell to Atom :atom:
+Still missing `Atom` [RIP December 15, 2022.](https://github.blog/2022-06-08-sunsetting-atom/)
  
 <h2 align="center">
 🧰 Skills & Tools 🧰
