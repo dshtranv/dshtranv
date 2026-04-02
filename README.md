@@ -10,11 +10,10 @@
 </a> 
 </div>
 
-<h1 align="left">
-Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer focused on open-source platforms, automation, and cloud-native infrastructure.
-</h2>
 <table><tr>
-<td valign="top" width="10%">
+<td valign="top" width="50%">
+
+## Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer focused on open-source platforms, automation, and cloud-native infrastructure.
 
 ### What I work with 👨‍💼
 - DevOps and platform engineering
