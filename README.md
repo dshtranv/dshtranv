@@ -89,6 +89,8 @@ Still missing `Atom` [RIP December 15, 2022.](https://github.blog/2022-06-08-sun
 
 ```bash
 history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
+```
+```bash
 3579 oc
 1513 ls
 1397 git
