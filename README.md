@@ -105,7 +105,7 @@ history | awk '{a[$2]++}END{for(i in a){print a[i] " " i}}' | sort -rn | head
 <img src="https://komarev.com/ghpvc/?username=dmitriyshub&&style=flat-square" align="center" />
 </div> 
 <div align="center">
-:cloud: :israel: :ukraine: :georgia: ♻️
+:israel: :ukraine: :georgia:
 </div>
 
 ----
