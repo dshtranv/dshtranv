@@ -11,20 +11,35 @@
 </div>
 
 <h1 align="left">
-I am Dima, a Cloud Consultant and DevOps Engineer   👋
+# Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer focused on open-source platforms, automation, and cloud-native infrastructure.
 </h2>
 <table><tr>
 <td valign="top" width="50%">
-  
-- I’m Currently Working at [**RedHat**](https://www.redhat.com/en) 🔴
 
-- Ask me about anything related to [**DevOps**](https://github.com/alonitac/DevOpsJan22) ❓
+## What I work with
+- DevOps and platform engineering
+- OpenShift and Kubernetes
+- Linux, RHEL, and automation
+- GitOps, CI/CD, and Infrastructure as Code
+- Cloud and hybrid environments
+- Observability and operational reliability
 
-- **Fun fact** I'm a big fan of classic video games and have restored several vintage arcade consoles 🕹️
+## Ask me about
+- DevOps practices
+- OpenShift and Kubernetes
+- Linux and automation
+- GitOps and CI/CD workflows
+- Infrastructure troubleshooting
 
-- **My Latest Project** Build a new [Raspberry Pi](https://www.raspberrypi.com/) and Install [**RetroPie**](https://retropie.org.uk/) with 20000 games 💾
-  
-- **I Miss You** [:atom: **Atom** RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/) 🙏
+## A bit beyond work
+I’m also a big fan of classic video games and have restored several vintage arcade consoles.
+
+## Recent personal project
+Built a [Raspberry Pi](https://www.raspberrypi.com/) retro gaming system with [**RetroPie**](https://retropie.org.uk/) and a large curated game library.
+
+## Farewell to Atom
+Still missing `Atom` :atom: [RIP December 15, 2022](https://github.blog/2022-06-08-sunsetting-atom/).
+
 
 - 💹   📚   🗺️   🌏   ✈️   🎮   🏊‍♂️   ⚽   🥋   🐶   🐱   :octocat:   🎧   🍻
  
