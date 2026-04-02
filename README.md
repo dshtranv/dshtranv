@@ -13,8 +13,7 @@
 <table><tr>
 <td valign="top" width="50%">
 
-### Hi, I'm Dima 👋 Cloud Consultant and DevOps Engineer 
-#### Focused on open-source platforms, automation, and cloud-native infrastructure.
+### Hi, I'm Dima 👋 Focused on open-source platforms, automation, and cloud-native infrastructure.
 
 #### What I work with 👨‍💼
 - DevOps and platform engineering
